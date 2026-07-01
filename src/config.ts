@@ -17,7 +17,7 @@
 // Google Sheet, AND sends you an email notification. No separate setup
 // needed for the two — they happen from the same script.
 
-export const GOOGLE_SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbw-9d_n8EUX7q4l5qKaGETsdj0WmiJT62h3TZdG3RfzRjS7V9LoYLSGwjLv6mlAsH0r/exec";
+export const GOOGLE_SHEET_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbyTKMaBxSufT2Iox46xfP5GutGwb-uuZG9yuW3wj0kPQ9zWfQKLeiFd2HjXYjGLJUSI/exec";
 
 // Email address that receives a notification every time someone submits
 // the form. Set this inside google-apps-script.gs (see NOTIFY_EMAIL there).
